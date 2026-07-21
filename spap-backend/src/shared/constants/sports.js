@@ -1,0 +1,7 @@
+const SPORTS = {
+  FOOTBALL: "FOOTBALL",
+  BASKETBALL: "BASKETBALL",
+  VOLLEYBALL: "VOLLEYBALL",
+};
+
+module.exports = SPORTS;
